@@ -1,0 +1,10 @@
+node_modules
+dist
+dist/ngrx-multy-store/index.html
+dist/ngrx-multy-store/5-es5.e4b5d0fd0615444cb7e3.js
+dist/ngrx-multy-store/5-es2015.e4b5d0fd0615444cb7e3.js
+dist/ngrx-multy-store/index.html
+dist/ngrx-multy-store/main-es5.765d1751a4f3316d1698.js
+dist/ngrx-multy-store/main-es2015.765d1751a4f3316d1698.js
+dist/ngrx-multy-store/runtime-es5.61bf46770241adfcb135.js
+dist/ngrx-multy-store/runtime-es2015.61bf46770241adfcb135.js
