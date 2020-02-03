@@ -6,11 +6,7 @@ export function reducer(state = initialState, action: Store1Actions): Store1Stat
         case Store1ActionTypes.SetItems:
             {
                 return { ...state, items: action.payload };
-            }
-        case Store1ActionTypes.SelectedItem:
-            {
-                return { ...state, selectedItem: action.payload };
-            }
+            }      
 
         default:
             return state;
